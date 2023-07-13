@@ -16,7 +16,7 @@ pip install wxPython
 3. Clone the repository or download the source code.
 
 ```shell
-git clone https://github.com/your-username/Address-Book.git
+git clone https://github.com/bitphonix/Address-Book.git
 ```
 
 ## Usage
