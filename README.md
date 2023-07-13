@@ -23,10 +23,6 @@ git clone https://github.com/bitphonix/Address-Book.git
 
 To run the address book application, execute the `Address Book.ipynb` file:
 
-```shell
-python main.py
-```
-
 Once the application is running, you can perform the following actions:
 
 - **Save**: Fill in the contact details and click the "Save" button to store the information in the address book database.
