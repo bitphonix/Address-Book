@@ -21,7 +21,7 @@ git clone https://github.com/bitphonix/Address-Book.git
 
 ## Usage
 
-To run the address book application, execute the `main.py` file:
+To run the address book application, execute the `Address Book.ipynb` file:
 
 ```shell
 python main.py
